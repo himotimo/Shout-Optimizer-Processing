@@ -1,5 +1,5 @@
 # Shout-Optimizer-Processing
-Processing code for the Shout Optimizer school project.
+Processing code for the Shout Optimizer school project. The data processing part of the project was designed and written by me.
 
 ## Overview of the project
 
